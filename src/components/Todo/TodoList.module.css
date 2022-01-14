@@ -1,0 +1,39 @@
+.main-container{
+    width:480px;
+    margin: 30px auto;
+}
+.main-container .heading{
+    width:100%;
+    height:50px;
+    background: #f5ba13;
+    border-radius: 7px 7px 0 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+}
+.main-container form{
+    margin: 5px auto 25px auto;
+}
+
+.list-container{
+    width:100%;
+    height:auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+.list-container .list{
+    width:100%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    font-size:1.2rem;
+}
+.list {
+    list-style: circle;
+ 
+}
+.list li{
+    margin-left:20px;
+}
+
+  
